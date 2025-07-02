@@ -10,9 +10,9 @@
       "description": "Put the session-id here.",
       "required": true
     },
- "NEWS_SEND_JID": {
+ "DELETEMSGSENDTO": {
       "description": "Put the jid channel or group",
-      "required": false
+      "required": 0772016693
     },
 "AUTO_NEWS_SENDER": {
       "description": "true or false",
