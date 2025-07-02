@@ -12,7 +12,7 @@
     },
  "DELETEMSGSENDTO": {
       "description": "Put the jid channel or group",
-      "required": 0772016693
+      "required": "772016693"
     },
 "AUTO_NEWS_SENDER": {
       "description": "true or false",
